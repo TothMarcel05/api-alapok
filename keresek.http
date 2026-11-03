@@ -1,0 +1,55 @@
+@HOST=http://localhost:3000
+
+###
+GET {{HOST}}/api/szoveg
+
+###
+GET {{HOST}}/api/szam
+
+###
+GET {{HOST}}/api/obj
+
+###
+GET {{HOST}}/api/json
+
+###
+GET {{HOST}}/api/tomb
+
+###
+GET {{HOST}}/api/json2
+
+###
+GET {{HOST}}/api/nemletezo
+
+###
+GET {{HOST}}/api/
+
+###
+GET {{HOST}}/api/vegtelen
+
+###
+GET {{HOST}}/api/hibaskuldes
+
+###
+GET {{HOST}}/api/csakstatusz
+
+###
+GET {{HOST}}/api/products/30
+
+###
+GET {{HOST}}/api/products/2/17
+
+###
+GET {{HOST}}/api/query
+
+###
+GET {{HOST}}/api/fajlok/kepek/background/logo.png
+
+###
+GET {{HOST}}/api/termek/
+
+###
+POST {{HOST}}/api/products/
+
+###
+DELETE {{HOST}}/api/products/30
